@@ -1,8 +1,8 @@
 [
 	{
-		"id": '1',
-		"version": '0.0.1',
-		"tile": 'First Post',
-		"Body": 'Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.'
+		"id": "1",
+		"version": "0.0.1",
+		"tile": "First Post",
+		"body": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. * Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
 	}
 ]
