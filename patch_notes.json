@@ -9,6 +9,6 @@
 		"id": "2",
 		"version": "0.0.2",
 		"title": "Second Post",
-		"body": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. \ * Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+		"body": `Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.\ * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.`
 	}
 ]
