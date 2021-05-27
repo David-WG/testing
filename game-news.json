@@ -1,16 +1,20 @@
 [
 	{
 		"id": "1",
+		"version": "0.0.1",
 		"title": "Welcome to Loot!",
-		"body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet faucibus",
+		"excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet faucibus"
+		"body": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
 		"iconBackground": "blue",
 		"icon": "spellsword"
 	},
 	{
 		"id": "2",
-		"title": "Second Game News!",
-		"body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet faucibus",
-		"iconBackground": "pearl",
+		"version": "0.0.2",
+		"title": "A new Beginning!",
+		"excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet faucibus"
+		"body": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
+		"iconBackground": "blue",
 		"icon": "spellsword"
 	}
 ]
