@@ -1,6 +1,6 @@
 [
 	{
-		"id": "1",
+		"id": 1,
 		"version": "0.0.1",
 		"title": "Welcome to Loot!",
 		"excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet faucibus",
@@ -9,7 +9,7 @@
 		"icon": "loot-news"
 	},
 	{
-		"id": "2",
+		"id": 2,
 		"version": "0.0.2",
 		"title": "A new Beginning!",
 		"excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet faucibus",
