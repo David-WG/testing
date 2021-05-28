@@ -5,8 +5,8 @@
 		"title": "Welcome to Loot!",
 		"excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet faucibus",
 		"body": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-		"iconBackground": "blue",
-		"icon": "spellsword"
+		"iconBackground": "none",
+		"icon": "loot-news"
 	},
 	{
 		"id": "2",
@@ -14,7 +14,7 @@
 		"title": "A new Beginning!",
 		"excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet faucibus",
 		"body": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit. \n * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-		"iconBackground": "blue",
-		"icon": "spellsword"
+		"iconBackground": "none",
+		"icon": "loot-news"
 	}
 ]
